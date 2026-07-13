@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-Results-driven **Java Full Stack Developer** with **5+ years of experience** building secure, scalable applications across **financial** and **e-commerce** platforms. I specialize in distributed systems, backend optimization, and cloud adoption.
+Results-driven **Java Full Stack Developer** with **4+ years of experience** building secure, scalable applications across **financial** and **e-commerce** platforms. I specialize in distributed systems, backend optimization, and cloud adoption.
 
-- 💼 Currently at **Centene Corporation** — Java Full Stack Developer, St. Louis, MO
+- 💼 Worked at **Centene Corporation** — Java Full Stack Developer, St. Louis, MO
 - 🏦 Proven track record in **Fintech, Banking & E-commerce** platforms
 - ☁️ Expert in migrating monolithic architectures to **microservices on AWS & Azure**
 - 🎓 **M.S. Information Technology Management** — Webster University (2025)
@@ -52,7 +52,7 @@ Results-driven **Java Full Stack Developer** with **5+ years of experience** bui
 ## 💼 Professional Experience
 
 ### 🏥 Centene Corporation — Java Full Stack Developer
-**Aug 2024 – Present | St. Louis, MO**
+**Aug 2024 – June 2026 | St. Louis, MO**
 - Modernized legacy banking platform using **Java 11, Spring Boot & Spring Cloud** — converted monolith into **12 microservices** on AWS ECS, reducing downtime by **19%**
 - Built event-driven pipelines with **Apache Kafka** processing **65,000 financial events daily**
 - Developed **Angular 13** dashboards improving UI performance by **17%** and customer engagement by **14%**
@@ -60,8 +60,8 @@ Results-driven **Java Full Stack Developer** with **5+ years of experience** bui
 - Achieved **100% audit readiness** for FINRA and SOX compliance via Spring Boot REST APIs
 - Deployed **serverless archival solutions** using AWS Lambda, S3 & Athena — cutting manual effort by **38%**
 
-### 🌐 Accenture — Java Full Stack Developer
-**Jun 2019 – Jul 2023 | Hyderabad, India**
+### 🌐 Complyport UAE(formerly Spinebiz Ind Pvt Ltd) — Java Full Stack Developer
+**Jan 2021 – Jul 2023 | Chennai, India**
 - Led AI-powered digital banking module — automated KYC workflows reducing manual verification by **18%**
 - Built **React frontends** and **Java microservices** handling **200 concurrent transactions/minute**
 - Applied **Java 8 Streams & Lambda** for AML/compliance processing, increasing throughput by **18%**
@@ -77,7 +77,7 @@ Results-driven **Java Full Stack Developer** with **5+ years of experience** bui
 |--------|------------|------|
 | M.S. Information Technology Management | Webster University | 2023 – 2025 |
 | B.E. Automobile Engineering | MVSR Engineering College | 2017 – 2020 |
-| Diploma, Mechanical Engineering | SBTET, Andhra Pradesh | 2013 – 2017 |
+
 
 ---
 
