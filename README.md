@@ -12,7 +12,7 @@ Results-driven **Java Full Stack Developer** with **4+ years of experience** bui
 - 🏦 Proven track record in **Fintech, Banking & E-commerce** platforms
 - ☁️ Expert in migrating monolithic architectures to **microservices on AWS & Azure**
 - 🎓 **M.S. Information Technology Management** — Webster University (2025)
-- 📫 Reach me: **sheshankpendli97@gmail.com**
+- 📫 Reach me: **sheshank3336@gmail.com**
 - 🌐 Portfolio: [sheshank.info](https://sheshank.info)
 
 ---
