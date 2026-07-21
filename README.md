@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-Results-driven **Java Full Stack Developer** with **4+ years of experience** building secure, scalable applications across **financial** and **e-commerce** platforms. I specialize in distributed systems, backend optimization, and cloud adoption.
+Results-driven **Software Engineer** with **4+ years of experience** building secure, scalable applications across **financial** and **e-commerce** platforms. I specialize in distributed systems, backend optimization, and cloud adoption.
 
-- 💼 Worked at **Centene Corporation** — Java Full Stack Developer, St. Louis, MO
-- 🏦 Proven track record in **Fintech, Banking & E-commerce** platforms
+- 💼 Worked at **Centene Corporation** — Software Engineer, St. Louis, MO
+- 🏦 Proven track record in **Fintech, Healthcare, Banking & E-commerce** platforms
 - ☁️ Expert in migrating monolithic architectures to **microservices on AWS & Azure**
 - 🎓 **M.S. Information Technology Management** — Webster University (2025)
 - 📫 Reach me: **sheshank3336@gmail.com**
