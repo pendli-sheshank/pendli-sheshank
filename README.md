@@ -1,7 +1,7 @@
 # Hi, I'm Sheshank Pendli 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%26+Microservices+Specialist;AWS+%26+Azure+Cloud+Engineer;5%2B+Years+Building+Scalable+Fintech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+%26+Microservices+Specialist;AWS+%26+Azure+Cloud+Engineer;4%2B+Years+Building+Scalable+Fintech+Solutions" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
