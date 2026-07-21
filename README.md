@@ -51,7 +51,7 @@ Results-driven **Software Engineer** with **4+ years of experience** building se
 
 ## 💼 Professional Experience
 
-### 🏥 Centene Corporation — Java Full Stack Developer
+### 🏥 Centene Corporation — Software Engineer
 **Aug 2024 – June 2026 | St. Louis, MO**
 - Modernized legacy banking platform using **Java 11, Spring Boot & Spring Cloud** — converted monolith into **12 microservices** on AWS ECS, reducing downtime by **19%**
 - Built event-driven pipelines with **Apache Kafka** processing **65,000 financial events daily**
@@ -60,7 +60,7 @@ Results-driven **Software Engineer** with **4+ years of experience** building se
 - Achieved **100% audit readiness** for FINRA and SOX compliance via Spring Boot REST APIs
 - Deployed **serverless archival solutions** using AWS Lambda, S3 & Athena — cutting manual effort by **38%**
 
-### 🌐 Complyport UAE(formerly Spinebiz Ind Pvt Ltd) — Java Full Stack Developer
+### 🌐 Complyport UAE(formerly Spinebiz Ind Pvt Ltd) — Software Engineer
 **Jan 2021 – Jul 2023 | Chennai, India**
 - Led AI-powered digital banking module — automated KYC workflows reducing manual verification by **18%**
 - Built **React frontends** and **Java microservices** handling **200 concurrent transactions/minute**
