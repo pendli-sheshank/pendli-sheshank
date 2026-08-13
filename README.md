@@ -1,108 +1,466 @@
-# Hi, I'm Sheshank Pendli 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=600&lines=Software+Engineer;Full+Stack+Developer;Spring+Boot+%26+Microservices+Specialist;AWS+%26+Azure+Cloud+Engineer;4%2B+Years+Building+Scalable+Enterprise+Solutions" alt="Typing SVG" />
-</p>
+# 👋 Hey, I'm Sheshank Pendli
 
-## 🚀 About Me
+### Software Engineer building scalable backend systems, cross-platform apps & AI-powered products.
 
-Results-driven **Software Engineer** with **4+ years of experience** building secure, scalable applications across **financial** and **e-commerce** platforms. I specialize in distributed systems, backend optimization, and cloud adoption.
+<br/>
 
-- 💼 Worked at **Centene Corporation** — Software Engineer, St. Louis, MO
-- 🏦 Proven track record in **Fintech, Healthcare, Banking & E-commerce** platforms
-- ☁️ Expert in migrating monolithic architectures to **microservices on AWS & Azure**
-- 🎓 **M.S. Information Technology Management** — Webster University (2025)
-- 📫 Reach me: **sheshank3336@gmail.com**
-- 🌐 Portfolio: [sheshank.info](https://sheshank.info)
+<a href="https://linkedin.com/in/psheshank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sheshankpendli7@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/pendli-sheshank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=pendli-sheshank&style=flat-square&color=blueviolet" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ About Me
+
+I'm a Software Engineer focused on **backend architecture, distributed systems, and cross-platform development**.
+
+I've worked on systems involving:
+
+```text
+12+ Microservices
+        ↓
+Spring Boot
+        ↓
+Kafka Event Processing
+        ↓
+65K+ Events / Day
+        ↓
+AWS Infrastructure
+```
+
+I also build products outside traditional enterprise software.
+
+Kotlin Multiplatform apps.
+Micro-SaaS ideas.
+AI automation.
+Developer tools.
+
+Basically, if something feels unnecessarily complicated, I like trying to make it simpler.
+
+---
+
+# 🧩 Engineering Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Backend Systems
+
+Spring Boot
+Microservices
+Apache Kafka
+REST APIs
+Event-driven architecture
+PostgreSQL
+Redis
+
+</td>
+
+<td width="50%">
+
+### 📱 Product Engineering
+
+Kotlin Multiplatform
+Jetpack Compose
+SwiftUI
+React
+Next.js
+TypeScript
+Firebase
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ☁️ Cloud & Infrastructure
+
+AWS
+Docker
+Kubernetes
+Jenkins
+GitHub Actions
+CI/CD
+
+</td>
+
+<td>
+
+### 🤖 AI Engineering
+
+LLMs
+RAG
+AI automation
+AI coding agents
+Claude Code
+Cursor
+GitHub Copilot
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+## 🚗 Split Cruiser
+
+### Community Rideshare Platform
+
+**Kotlin Multiplatform · Ktor · Firebase · OpenStreetMap · OSRM · Compose · SwiftUI**
+
+A cross-platform rideshare application designed around shared business logic while keeping native experiences on Android and iOS.
+
+```text
+                    ┌─────────────────┐
+                    │   Split Cruiser  │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┴──────────────┐
+              │                             │
+       ┌──────▼──────┐               ┌──────▼──────┐
+       │   Android   │               │     iOS     │
+       │   Compose   │               │   SwiftUI   │
+       └──────┬──────┘               └──────┬──────┘
+              │                             │
+              └──────────────┬──────────────┘
+                             │
+                    ┌────────▼────────┐
+                    │ Shared KMP Core │
+                    │ Business Logic  │
+                    │ State Management │
+                    │ Networking      │
+                    └────────┬────────┘
+                             │
+              ┌──────────────┼──────────────┐
+              │              │              │
+          Firebase         OSRM        OpenStreetMap
+```
+
+**Highlights**
+
+→ Shared cross-platform business logic
+→ Native Android + iOS UI
+→ Ktor REST networking
+→ Location search and routing
+→ Distance-based fare splitting
+→ Automated CI/CD
+→ Google Play Internal Testing
+→ Apple TestFlight
+
+---
+
+## ⏰ Shifnex
+
+### Workforce Scheduling & Shift Management
+
+**Kotlin Multiplatform · MVVM · Firebase · Compose · SwiftUI**
+
+A cross-platform team management application focused on scheduling, collaboration, payroll calculations, and real-time workflows.
+
+```text
+              ┌─────────────────────┐
+              │       Shifnex       │
+              └──────────┬──────────┘
+                         │
+          ┌──────────────┴──────────────┐
+          │                             │
+     Android                       iOS
+     Compose                      SwiftUI
+          │                             │
+          └──────────────┬──────────────┘
+                         │
+                Kotlin Multiplatform
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+       Firebase       Calendar       Widgets
+       Firestore       Sync        Android/iOS
+```
+
+**Highlights**
+
+→ Shared pay & overtime engine
+→ Real-time collaboration
+→ Shift swaps
+→ Roster management
+→ Calendar synchronization
+→ Home-screen widgets
+→ Biometric authentication
+→ Cross-platform architecture
+
+---
+
+# 💼 Experience
+
+### 🏢 Centene Corporation
+
+**Software Engineer · St. Louis, Missouri**
+
+`Aug 2024 → Present`
+
+Built backend services supporting high-volume healthcare workloads.
+
+<table>
+<tr>
+<td align="center">
+
+### 12+
+
+Microservices
+
+</td>
+<td align="center">
+
+### 65K+
+
+Events / Day
+
+</td>
+<td align="center">
+
+### 30%
+
+Faster Releases
+
+</td>
+</tr>
+</table>
+
+**Core work**
+
+Spring Boot microservices
+Kafka event processing
+Kafka Streams
+REST APIs
+AWS
+Docker
+Jenkins
+CI/CD
+
+---
+
+### 🏢 Complyport UAE
+
+**Software Engineer**
+
+`Jan 2021 → Jul 2023`
+
+Built scalable web applications and backend services for a real-estate platform operating across **300+ cities**.
+
+**Core work**
+
+React
+TypeScript
+Next.js
+Node.js
+Express
+PostgreSQL
+Redis
+
+Improved API response times by **25%** through query optimization and indexing.
+
+Reduced application load times by **20%** using caching strategies.
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,typescript,javascript,python,sql" />
 
 ### Backend
-![Java](https://img.shields.io/badge/Java_11/8-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka" />
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular_13-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions" />
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+</div>
 
 ---
 
-## 💼 Professional Experience
+# 📊 GitHub
 
-### 🏥 Centene Corporation — Software Engineer
-**Aug 2024 – June 2026 | St. Louis, MO**
-- Modernized legacy banking platform using **Java 11, Spring Boot & Spring Cloud** — converted monolith into **12 microservices** on AWS ECS, reducing downtime by **19%**
-- Built event-driven pipelines with **Apache Kafka** processing **65,000 financial events daily**
-- Developed **Angular 13** dashboards improving UI performance by **17%** and customer engagement by **14%**
-- Integrated **Python-based fraud detection engine**, boosting accuracy by **11%** for 105K weekly transactions
-- Achieved **100% audit readiness** for FINRA and SOX compliance via Spring Boot REST APIs
-- Deployed **serverless archival solutions** using AWS Lambda, S3 & Athena — cutting manual effort by **38%**
+<div align="center">
 
-### 🌐 Complyport UAE(formerly Spinebiz Ind Pvt Ltd) — Software Engineer
-**Jan 2021 – Jul 2023 | Chennai, India**
-- Led AI-powered digital banking module — automated KYC workflows reducing manual verification by **18%**
-- Built **React frontends** and **Java microservices** handling **200 concurrent transactions/minute**
-- Applied **Java 8 Streams & Lambda** for AML/compliance processing, increasing throughput by **18%**
-- Executed **CI/CD pipelines** using Jenkins, Docker & Kubernetes — accelerating delivery timelines by **20%**
-- Optimized MySQL with indexing & partitioning, improving query performance by **15%** for 50K financial records
-- Implemented **multithreaded processing** with ExecutorService for 100 simultaneous loan applications
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=pendli-sheshank&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendli-sheshank&layout=compact&hide_border=true&theme=transparent"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pendli-sheshank&hide_border=true&theme=transparent"/>
+
+</div>
 
 ---
 
-## 🎓 Education
+# 🐍 Contribution Activity
 
-| Degree | Institution | Year |
-|--------|------------|------|
-| M.S. Information Technology Management | Webster University | 2023 – 2025 |
-| B.E. Automobile Engineering | MVSR Engineering College | 2017 – 2020 |
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity"/>
 
----
-
-## 🏆 Certifications
-
-- 🎖️ **Career Essentials in GitHub** — GitHub Professional Certificate
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🧠 How I Think About Software
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pendli-sheshank&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendli-sheshank&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
+```text
+                         USER
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │ Simple UX   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │ Clean APIs  │
+                    └──────┬──────┘
+                           │
+                           ▼
+              ┌─────────────────────────┐
+              │   Reliable Services     │
+              └────────────┬────────────┘
+                           │
+                 ┌─────────┴─────────┐
+                 ▼                   ▼
+             Events                Data
+             Kafka              PostgreSQL
+                 │                   │
+                 └─────────┬─────────┘
+                           ▼
+                     AWS / Cloud
+```
+
+I care about systems that are:
+
+**Simple to understand.**
+
+**Easy to test.**
+
+**Cheap to operate.**
+
+**Easy to change.**
+
+**Hard to accidentally break.**
 
 ---
 
-## 🌐 Connect with Me
+# 🔬 Currently Exploring
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sheshank.info)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/psheshank)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheshankpendli97@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pendli-sheshank)
+<table>
+<tr>
+<td>🤖</td>
+<td><b>AI Engineering</b><br/>LLM applications, RAG and AI automation</td>
+</tr>
+
+<tr>
+<td>📦</td>
+<td><b>Micro-SaaS</b><br/>Small products solving very specific problems</td>
+</tr>
+
+<tr>
+<td>📱</td>
+<td><b>Kotlin Multiplatform</b><br/>Sharing business logic without sacrificing native UX</td>
+</tr>
+
+<tr>
+<td>🎙️</td>
+<td><b>AI Voice Agents</b><br/>Connecting voice interfaces with real business workflows</td>
+</tr>
+</table>
 
 ---
 
-⭐ *Feel free to explore my repositories and leave a star if you find something useful!*
+# 🎓 Education
+
+### 🎓 M.S. Information Technology Management
+
+**Webster University**
+
+`2023 — 2025`
+
+GPA: **3.6**
+
+### 🎓 B.E. Automobile Engineering
+
+**Osmania University**
+
+`2017 — 2020`
+
+GPA: **9.0**
+
+---
+
+# 🏆 Certifications
+
+**Google AI Essentials Specialization**
+Google · 2026
+
+**Career Essentials in GitHub Professional Certificate**
+GitHub · 2025
+
+---
+
+# 📫 Let's Build Something
+
+I'm interested in:
+
+**Backend engineering · Distributed systems · Mobile · AI products · Developer tools · Micro-SaaS**
+
+If you're building something interesting, feel free to reach out.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/psheshank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sheshankpendli7@gmail.com">
+<img src="https://img.shields.io/badge/Email-Sheshank-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### `Build → Break → Learn → Ship → Repeat`
+
+</div>
