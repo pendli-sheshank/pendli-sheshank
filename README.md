@@ -2,215 +2,177 @@
 
 # 👋 Hey, I'm Sheshank Pendli
 
-### Software Engineer building scalable backend systems, cross-platform apps & AI-powered products.
+### Software Engineer · Backend Systems · Full-Stack · Mobile
+
+I build scalable backend systems, cross-platform applications, and useful software products.
 
 <br/>
 
 <a href="https://linkedin.com/in/psheshank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="mailto:sheshankpendli7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://github.com/pendli-sheshank">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=pendli-sheshank&style=flat-square&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=pendli-sheshank&style=flat-square&color=blueviolet" alt="Profile views"/>
 
 </div>
 
 ---
 
-## ⚡ About Me
+## 🧠 What I Do
 
-I'm a Software Engineer focused on **backend architecture, distributed systems, and cross-platform development**.
+I’m a Software Engineer focused on backend architecture, distributed systems, and cross-platform product development.
 
-I've worked on systems involving:
+My strongest area is building backend systems that are reliable, observable, and easy to evolve.
+
+I also enjoy building products from scratch.
 
 ```text
-12+ Microservices
-        ↓
-Spring Boot
-        ↓
-Kafka Event Processing
-        ↓
-65K+ Events / Day
-        ↓
-AWS Infrastructure
+Backend Systems
+    ├── Java 17
+    ├── Spring Boot
+    ├── Microservices
+    ├── Apache Kafka
+    ├── PostgreSQL
+    └── AWS
+
+Product Engineering
+    ├── Kotlin Multiplatform
+    ├── Jetpack Compose
+    ├── SwiftUI
+    ├── React
+    └── TypeScript
+
+Engineering
+    ├── Event-Driven Architecture
+    ├── Clean Architecture
+    ├── REST APIs
+    ├── CI/CD
+    └── Cloud Infrastructure
 ```
-
-I also build products outside traditional enterprise software.
-
-Kotlin Multiplatform apps.
-Micro-SaaS ideas.
-AI automation.
-Developer tools.
-
-Basically, if something feels unnecessarily complicated, I like trying to make it simpler.
 
 ---
 
-# 🧩 Engineering Focus
+## ⚡ Engineering Highlights
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### 🏗️ Backend Systems
+|          |                           |
+| -------- | ------------------------- |
+| **12+**  | Spring Boot Microservices |
+| **65K+** | Events Processed / Day    |
+| **300+** | Cities Served             |
+| **30%**  | Faster Release Cycle      |
 
-Spring Boot
-Microservices
-Apache Kafka
-REST APIs
-Event-driven architecture
-PostgreSQL
-Redis
-
-</td>
-
-<td width="50%">
-
-### 📱 Product Engineering
-
-Kotlin Multiplatform
-Jetpack Compose
-SwiftUI
-React
-Next.js
-TypeScript
-Firebase
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ☁️ Cloud & Infrastructure
-
-AWS
-Docker
-Kubernetes
-Jenkins
-GitHub Actions
-CI/CD
-
-</td>
-
-<td>
-
-### 🤖 AI Engineering
-
-LLMs
-RAG
-AI automation
-AI coding agents
-Claude Code
-Cursor
-GitHub Copilot
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-# 🚀 Featured Projects
+## 🏗️ Featured Projects
 
-## 🚗 Split Cruiser
+### 🚗 Split Cruiser
 
-### Community Rideshare Platform
+**Community Rideshare Platform**
 
-**Kotlin Multiplatform · Ktor · Firebase · OpenStreetMap · OSRM · Compose · SwiftUI**
+`Kotlin Multiplatform` `Ktor` `Firebase` `OpenStreetMap` `OSRM` `Jetpack Compose` `SwiftUI`
 
-A cross-platform rideshare application designed around shared business logic while keeping native experiences on Android and iOS.
+A cross-platform rideshare application built around shared business logic and native Android/iOS experiences.
 
 ```text
-                    ┌─────────────────┐
-                    │   Split Cruiser  │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┴──────────────┐
-              │                             │
-       ┌──────▼──────┐               ┌──────▼──────┐
-       │   Android   │               │     iOS     │
-       │   Compose   │               │   SwiftUI   │
-       └──────┬──────┘               └──────┬──────┘
-              │                             │
-              └──────────────┬──────────────┘
-                             │
-                    ┌────────▼────────┐
-                    │ Shared KMP Core │
-                    │ Business Logic  │
-                    │ State Management │
-                    │ Networking      │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              │              │              │
-          Firebase         OSRM        OpenStreetMap
+                 ┌───────────────────┐
+                 │   Split Cruiser   │
+                 └─────────┬─────────┘
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+      ┌──────▼──────┐             ┌──────▼──────┐
+      │   Android   │             │     iOS     │
+      │   Compose   │             │   SwiftUI   │
+      └──────┬──────┘             └──────┬──────┘
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                  ┌────────▼────────┐
+                  │ Shared KMP Core  │
+                  │                 │
+                  │ Business Logic  │
+                  │ State Management│
+                  │ Networking      │
+                  └────────┬────────┘
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+         Firebase         OSRM      OpenStreetMap
 ```
 
-**Highlights**
+**Built for**
 
-→ Shared cross-platform business logic
-→ Native Android + iOS UI
-→ Ktor REST networking
+→ Shared business logic across Android and iOS
+→ Native platform UI
 → Location search and routing
-→ Distance-based fare splitting
+→ Distance-based cost splitting
+→ Ktor REST networking
 → Automated CI/CD
 → Google Play Internal Testing
 → Apple TestFlight
 
 ---
 
-## ⏰ Shifnex
+### ⏰ Shifnex
 
-### Workforce Scheduling & Shift Management
+**Workforce Scheduling & Shift Management**
 
-**Kotlin Multiplatform · MVVM · Firebase · Compose · SwiftUI**
+`Kotlin Multiplatform` `MVVM` `Firebase` `Compose` `SwiftUI`
 
-A cross-platform team management application focused on scheduling, collaboration, payroll calculations, and real-time workflows.
+A cross-platform workforce application for scheduling, collaboration, shift management, and payroll-related calculations.
 
 ```text
-              ┌─────────────────────┐
-              │       Shifnex       │
-              └──────────┬──────────┘
-                         │
-          ┌──────────────┴──────────────┐
-          │                             │
-     Android                       iOS
-     Compose                      SwiftUI
-          │                             │
-          └──────────────┬──────────────┘
-                         │
-                Kotlin Multiplatform
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       Firebase       Calendar       Widgets
-       Firestore       Sync        Android/iOS
+                    ┌──────────────┐
+                    │   Shifnex    │
+                    └──────┬───────┘
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+        ┌─────▼─────┐             ┌─────▼─────┐
+        │  Android  │             │    iOS    │
+        │  Compose  │             │  SwiftUI  │
+        └─────┬─────┘             └─────┬─────┘
+              │                         │
+              └────────────┬────────────┘
+                           │
+                 ┌─────────▼─────────┐
+                 │ Kotlin Multiplatform│
+                 └─────────┬─────────┘
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+       Firestore        Calendar         Widgets
+       Real-time          Sync          Android/iOS
 ```
 
-**Highlights**
+**Built for**
 
-→ Shared pay & overtime engine
+→ Shared pay and overtime calculations
 → Real-time collaboration
-→ Shift swaps
+→ Shift swaps and approvals
 → Roster management
 → Calendar synchronization
 → Home-screen widgets
 → Biometric authentication
-→ Cross-platform architecture
+→ Cross-platform state management
 
 ---
 
-# 💼 Experience
+## 💼 Professional Experience
 
 ### 🏢 Centene Corporation
 
@@ -218,44 +180,27 @@ A cross-platform team management application focused on scheduling, collaboratio
 
 `Aug 2024 → Present`
 
-Built backend services supporting high-volume healthcare workloads.
+Built backend systems supporting high-volume healthcare workloads.
 
-<table>
-<tr>
-<td align="center">
+**Architecture**
 
-### 12+
+`Spring Boot` → `Microservices` → `Kafka` → `AWS`
 
-Microservices
+**Highlights**
 
-</td>
-<td align="center">
+→ Engineered 12 independent Spring Boot microservices.
 
-### 65K+
+→ Migrated business functionality away from a legacy monolithic architecture.
 
-Events / Day
+→ Implemented Kafka-based asynchronous processing.
 
-</td>
-<td align="center">
+→ Built Kafka Streams workflows for real-time data processing.
 
-### 30%
+→ Designed REST APIs for frontend and backend integration.
 
-Faster Releases
+→ Built CI/CD pipelines using Jenkins and Docker.
 
-</td>
-</tr>
-</table>
-
-**Core work**
-
-Spring Boot microservices
-Kafka event processing
-Kafka Streams
-REST APIs
-AWS
-Docker
-Jenkins
-CI/CD
+→ Reduced release cycle time by approximately **30%**.
 
 ---
 
@@ -265,173 +210,202 @@ CI/CD
 
 `Jan 2021 → Jul 2023`
 
-Built scalable web applications and backend services for a real-estate platform operating across **300+ cities**.
+Built scalable web applications and backend services for a real-estate platform serving **300+ cities**.
 
-**Core work**
+**Stack**
 
-React
-TypeScript
-Next.js
-Node.js
-Express
-PostgreSQL
-Redis
+`React` `TypeScript` `Next.js` `Node.js` `Express` `PostgreSQL` `Redis`
 
-Improved API response times by **25%** through query optimization and indexing.
+**Highlights**
 
-Reduced application load times by **20%** using caching strategies.
+→ Built responsive applications using React, TypeScript, and Next.js.
+
+→ Developed backend services and REST APIs using Node.js and Express.
+
+→ Optimized PostgreSQL queries and indexing strategies.
+
+→ Reduced average API response time by approximately **25%**.
+
+→ Implemented Redis caching.
+
+→ Reduced application load times by approximately **20%**.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Technology
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,typescript,javascript,python,sql" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,typescript,javascript,python" alt="Languages"/>
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka" alt="Backend technologies"/>
 
-### Frontend
+### Frontend & Mobile
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular" alt="Frontend technologies"/>
 
-### Cloud & DevOps
+### Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,githubactions" alt="Cloud and infrastructure technologies"/>
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Database technologies"/>
 
 </div>
 
 ---
 
-# 📊 GitHub
+## 🧩 Architecture
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pendli-sheshank&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pendli-sheshank&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pendli-sheshank&hide_border=true&theme=transparent"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-# 🧠 How I Think About Software
+I’m particularly interested in systems where architecture has a measurable impact on reliability and performance.
 
 ```text
-                         USER
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │ Simple UX   │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │ Clean APIs  │
-                    └──────┬──────┘
-                           │
-                           ▼
-              ┌─────────────────────────┐
-              │   Reliable Services     │
-              └────────────┬────────────┘
-                           │
-                 ┌─────────┴─────────┐
-                 ▼                   ▼
-             Events                Data
-             Kafka              PostgreSQL
-                 │                   │
-                 └─────────┬─────────┘
-                           ▼
-                     AWS / Cloud
+                         ┌─────────────┐
+                         │   Clients   │
+                         └──────┬──────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │    REST APIs    │
+                       └────────┬────────┘
+                                │
+                ┌───────────────┼───────────────┐
+                │               │               │
+                ▼               ▼               ▼
+          ┌──────────┐    ┌──────────┐    ┌──────────┐
+          │ Service  │    │ Service  │    │ Service  │
+          │    A     │    │    B     │    │    C     │
+          └────┬─────┘    └────┬─────┘    └────┬─────┘
+               │               │               │
+               └───────────────┼───────────────┘
+                               ▼
+                         ┌───────────┐
+                         │   Kafka   │
+                         └─────┬─────┘
+                               │
+                  ┌────────────┴────────────┐
+                  ▼                         ▼
+           ┌────────────┐            ┌────────────┐
+           │ PostgreSQL │            │    Redis   │
+           └────────────┘            └────────────┘
+                              
+                               │
+                               ▼
+                          ┌─────────┐
+                          │   AWS   │
+                          └─────────┘
 ```
-
-I care about systems that are:
-
-**Simple to understand.**
-
-**Easy to test.**
-
-**Cheap to operate.**
-
-**Easy to change.**
-
-**Hard to accidentally break.**
 
 ---
 
-# 🔬 Currently Exploring
+## 🤖 AI & Modern Development
+
+I use AI as an engineering tool, not as a replacement for engineering judgment.
+
+Currently exploring:
+
+`LLM Applications` `RAG` `AI Automation` `AI Voice Agents`
+
+Tools I work with:
+
+`Claude Code` `Cursor` `GitHub Copilot`
+
+My interest is mainly around using AI to make existing software workflows faster, simpler, and more useful.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/pendli-sheshank">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pendli-sheshank&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
+  <img src="./github-snake.svg" alt="GitHub contribution snake animation">
+</picture>
+
+</div>
+
+---
+
+## 🔭 Currently Exploring
 
 <table>
 <tr>
-<td>🤖</td>
-<td><b>AI Engineering</b><br/>LLM applications, RAG and AI automation</td>
+<td width="50%">
+
+### 🤖 AI Engineering
+
+LLM applications, RAG pipelines, AI agents, voice interfaces, and workflow automation.
+
+</td>
+
+<td width="50%">
+
+### 📦 Micro-SaaS
+
+Small software products that solve specific business problems without unnecessary complexity.
+
+</td>
 </tr>
 
 <tr>
-<td>📦</td>
-<td><b>Micro-SaaS</b><br/>Small products solving very specific problems</td>
-</tr>
+<td>
 
-<tr>
-<td>📱</td>
-<td><b>Kotlin Multiplatform</b><br/>Sharing business logic without sacrificing native UX</td>
-</tr>
+### 📱 Kotlin Multiplatform
 
-<tr>
-<td>🎙️</td>
-<td><b>AI Voice Agents</b><br/>Connecting voice interfaces with real business workflows</td>
+Sharing business logic across platforms while keeping native UI and platform capabilities.
+
+</td>
+
+<td>
+
+### ⚙️ Developer Tools
+
+Tools that make software development, debugging, deployment, and maintenance easier.
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-### 🎓 M.S. Information Technology Management
+### M.S. Information Technology Management
 
 **Webster University**
 
-`2023 — 2025`
+`2023 — 2025` · GPA **3.6**
 
-GPA: **3.6**
-
-### 🎓 B.E. Automobile Engineering
+### B.E. Automobile Engineering
 
 **Osmania University**
 
-`2017 — 2020`
-
-GPA: **9.0**
+`2017 — 2020` · GPA **9.0**
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
 **Google AI Essentials Specialization**
 Google · 2026
@@ -441,26 +415,22 @@ GitHub · 2025
 
 ---
 
-# 📫 Let's Build Something
+## 📫 Let's Connect
 
-I'm interested in:
-
-**Backend engineering · Distributed systems · Mobile · AI products · Developer tools · Micro-SaaS**
-
-If you're building something interesting, feel free to reach out.
+I'm interested in backend engineering, distributed systems, mobile products, AI applications, developer tools, and interesting software problems.
 
 <div align="center">
 
 <a href="https://linkedin.com/in/psheshank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+&nbsp;
 <a href="mailto:sheshankpendli7@gmail.com">
-<img src="https://img.shields.io/badge/Email-Sheshank-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Sheshank-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
 
-### `Build → Break → Learn → Ship → Repeat`
+<i>Build useful things. Keep the architecture boring. Ship.</i>
 
 </div>
