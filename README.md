@@ -338,11 +338,20 @@ My interest is mainly around using AI to make existing software workflows faster
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-  <img src="./github-snake.svg" alt="GitHub contribution snake animation">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pendli-sheshank/pendli-sheshank/gh-pages/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pendli-sheshank/pendli-sheshank/gh-pages/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/pendli-sheshank/pendli-sheshank/gh-pages/github-snake.svg"
+    alt="GitHub contribution snake animation"
+    width="100%"
+  />
 </picture>
-
 </div>
 
 ---
